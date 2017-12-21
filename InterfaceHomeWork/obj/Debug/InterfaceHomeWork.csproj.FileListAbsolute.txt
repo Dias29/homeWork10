@@ -1,0 +1,8 @@
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.exe.config
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.exe
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\ClassLibrary.dll
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\ClassLibrary.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.exe
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.pdb

@@ -1,0 +1,5 @@
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\ClassLibrary\bin\Debug\ClassLibrary.dll
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\ClassLibrary\bin\Debug\ClassLibrary.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\ClassLibrary\obj\Debug\HouseLibrary.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\ClassLibrary\obj\Debug\ClassLibrary.dll
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\ClassLibrary\obj\Debug\ClassLibrary.pdb
